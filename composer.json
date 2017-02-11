@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-0": {"": "src/"}
+  },
+  "require": {
+    "symfony/event-dispatcher": "^3.2"
+  }
+}
